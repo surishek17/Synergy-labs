@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Fisrtly, you can install the "node-modules" file with following command:
 
-In the project directory, you can run:
+### `npm install`
+
+Now, In the project directory, you can run:
 
 ### `npm start`
 
